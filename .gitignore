@@ -1,0 +1,4 @@
+*.sra
+.ipynb_checkpoints
+*.dat
+results/
